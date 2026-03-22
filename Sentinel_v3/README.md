@@ -240,7 +240,7 @@ Frontend: React
 
 ## 👩‍💻 Author
 
-Rachana Sharma
+Rachana Sharma , Umehani and Zunaira Amber
 MFA Exam Security System
 Sentinel_v3 – 2026
 
