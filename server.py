@@ -2,14 +2,6 @@
 SENTINEL — MFA EXAM HALL SECURITY SYSTEM
 Flask Backend Server — DeepFace Edition
 =========================================
-Major upgrades from previous version:
-- DeepFace (ArcFace model) replaces LBPH face recognition
-  → State-of-the-art accuracy, no training needed
-  → Works with just 1-3 reference photos per student
-  → Handles lighting, angle, expression variations
-- Hall ticket PDF generation endpoint
-- Webcam QR scanner (laptop webcam, not ESP32-CAM)
-- All previous fixes retained
 """
 
 import os, io, json, hashlib, logging
